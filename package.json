@@ -1,0 +1,26 @@
+{
+  "name": "qcodedays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Creatorrr1/QCodeDays.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Creatorrr1/QCodeDays/issues"
+  },
+  "homepage": "https://github.com/Creatorrr1/QCodeDays#readme",
+  "devDependencies": {
+    "@types/jasmine": "^4.3.0",
+    "jasmine": "^4.4.0"
+  }
+}
