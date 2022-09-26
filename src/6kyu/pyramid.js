@@ -15,6 +15,13 @@
 
 // What is the tallest pyramid possible we can build from the given number of cubes? Simply return the number of complete layers.
 
+// Examples
+
+// 4  -->  1
+// 5  -->  2
+// 13  -->  2
+// 14  -->  3
+
 function pyramidHeight(n) {
     let count = 0;
     while (n > 0) {
