@@ -26,6 +26,8 @@ let array = [true,  true,  true,  false,
 
 console.log(`Q) countSheeps(array) =>`,'A)', countSheeps(array))
 
+// Other Ways =>
+
 // function countSheeps(arrayOfSheep) {
 //     let count = 0;
     
